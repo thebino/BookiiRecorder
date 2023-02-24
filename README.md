@@ -1,5 +1,7 @@
 # Recorder for Bookii
 
+[![Continuous Delivery Pipeline](https://github.com/thebino/BookiiRecorder/actions/workflows/continuous-delivery-pipeline.yml/badge.svg)](https://github.com/thebino/BookiiRecorder/actions/workflows/continuous-delivery-pipeline.yml)
+
 <a href='https://play.google.com/store/apps/details?id=pro.stuermer.bookii'><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" style="width: 240px;"></a>
 
 Unofficial app to record and transfer audio records to a bookii pen. Build creative and truly custom books for the little ones by adding speech or and custom audio content. Like for un-supported books. 
