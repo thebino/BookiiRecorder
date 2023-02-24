@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Bookii</string>
+
+    <string name="transfers_title">Transfers</string>
+    <string name="cd_transfers_title">@string/transfers_title</string>
+
+    <string name="search_navigation_title">Search</string>
+    <string name="cd_search_navigation_title">@string/search_navigation_title</string>
+</resources>
