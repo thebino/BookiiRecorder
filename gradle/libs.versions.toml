@@ -15,7 +15,7 @@ jetbrainsKotlinxSerialization = "1.4.1"
 junit = "4.13.2"
 koin = "3.3.2"
 koinCompose = "3.4.1"
-ktor = "2.2.2"
+ktor = "2.2.4"
 okio = "3.3.0"
 
 
