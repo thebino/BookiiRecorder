@@ -7,7 +7,7 @@ kover = "0.6.1"
 spotless = "6.13.0"
 grgit = "5.0.0"
 
-accompanist = "0.27.1"
+accompanist = "0.28.0"
 androidxActivity = "1.6.1"
 androidxCore = "1.9.0"
 jetbrainsKotlinx = "1.6.4"
