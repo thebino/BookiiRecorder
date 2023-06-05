@@ -19,7 +19,7 @@ kotlin {
                 api(compose.foundation)
                 api(compose.material)
 
-                implementation("io.github.oshai:kotlin-logging-jvm:4.0.0-beta-23")
+                implementation("io.github.oshai:kotlin-logging-jvm:4.0.0-beta-29")
 
 //                implementation("org.usb4java:usb4java:1.3.0")
                 implementation("net.samuelcampos:usbdrivedetector:2.2.1")
